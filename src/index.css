@@ -20,6 +20,7 @@ p {
   margin-bottom: 5px;
 }
 button {
+  text-transform: capitalize;
   margin-right: 10px;
   font-weight: 600;
   cursor: pointer;
